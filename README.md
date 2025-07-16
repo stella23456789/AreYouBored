@@ -1,6 +1,5 @@
 # AreYouBored
-Just a Gtag mod i made because i was bored
-
+Just a Gtag mod i made because im a skid who wants verified modder role
 
 To use it just hold down both the triggers, both the grips, and all the face buttons for 8 seconds.
 
