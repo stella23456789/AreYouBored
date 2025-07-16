@@ -24,7 +24,7 @@ namespace AreYouBored
         {
 	        SteamInstallPath = Config.Bind("General",    
 		        "SteamInstallationPath", 
-		        "Hello, world!",
+		        "C:\\Program Files (x86)\\Steam",
 		        "This is where steam is installed. I don't know if it can be installed elsewhere but in case it can i added this config entry and i also added it for different drives. If you want to use games in a different drive use \"D:\\FunGames\\steamapps\" where \"steamapps\" is where you would usually find your games in the common folder inside that.");
 	        
 	        
